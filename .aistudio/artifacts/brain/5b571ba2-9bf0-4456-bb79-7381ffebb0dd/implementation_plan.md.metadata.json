@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan to clean up and refine DAYZERO UI and wallpaper canvas: removing the top bar (DAYZERO / Pixel 9 branding and sync icon), removing 'Pixel 9 Preview' text, centering the Pure/Lock/Home overlay toggle, removing the bottom wallpaper footer stamp ('Automatic Daily Update Pixel 9 Active'), simplifying 'Apply to Pixel 9' to 'Apply', and removing the display spec subtext.",
+  "updatedAt": "2026-11-06T17:39:36.927268761Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

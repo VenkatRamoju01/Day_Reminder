@@ -1,0 +1,6 @@
+{
+  "name": "DAYZERO",
+  "description": "Minimalist countdown wallpaper generator for Google Pixel 9. Focuses on a single active goal with typography, daily background refresh, and lock/home screen support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
