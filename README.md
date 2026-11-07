@@ -37,6 +37,13 @@ This is an experimental personal project. I may continue improving its features,
 
 Potential future improvements include additional customization options, improved visual designs, and more ways to personalize goal reminders.
 
+## UI
+
+<img src="Images/UI1.jpeg" alt="App Screenshot" height="500">
+<img src="UI1.jpeg" alt="App Screenshot" height="500">
+<img src="UI2.jpeg" alt="App Screenshot" height="500">
+<img src="UI3.jpeg" alt="App Screenshot" height="500">
+
 ---
 
 **Built for personal use, learning, and the pursuit of meaningful goals.**
