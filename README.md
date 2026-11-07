@@ -39,7 +39,7 @@ Potential future improvements include additional customization options, improved
 
 ## UI
 
-<img src="Images/UI1.jpeg" alt="App Screenshot" height="500">
+<img src="wallpaper_ and_icon.jpeg" alt="App Screenshot" height="500">
 <img src="UI1.jpeg" alt="App Screenshot" height="500">
 <img src="UI2.jpeg" alt="App Screenshot" height="500">
 <img src="UI3.jpeg" alt="App Screenshot" height="500">
